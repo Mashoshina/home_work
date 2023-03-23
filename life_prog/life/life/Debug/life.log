@@ -1,0 +1,4 @@
+﻿  life_f.c
+D:\life_prog\life\life\life_f.c(5,18): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\life_prog\life\life\life_f.c(42): warning C4716: next_gen: должна возвращать значение
+  life.vcxproj -> D:\life_prog\life\Debug\life.exe
